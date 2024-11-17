@@ -1,0 +1,65 @@
+<TALK id="kaio">
+	<BG file="kaio" />
+	<SENTENCE>ようこそジャンプランドへ</SENTENCE>
+	<BUTTON subject="入場する" action="regist_passport" comment="" />
+</TALK>
+
+
+<TALK id="gate_help">
+	<BG file="piccolo01" />
+	<SENTENCE>ジャンプランドへよくきたな</SENTENCE><BR />
+	<SENTENCE>なにについてききたい?</SENTENCE>
+	<BUTTON subject="ジャンプランドについて" action="talk" file="gate_help1" />
+	<BUTTON subject="そうさほうほうについて" action="talk" file="gate_help2" />
+	<BUTTON subject="リンクについて" action="talk" file="gate_help3" />
+	<BUTTON subject="やめる" action="close" />
+</TALK>
+
+
+<TALK id="gate_help1">
+	<BG file="piccolo01" />
+	<SENTENCE>このさきのゲートをくぐれば</SENTENCE><BR />
+	<SENTENCE>ジャンプランドだ</SENTENCE><BR />
+	<SENTENCE>まずは　いってみることだ</SENTENCE>
+	<BUTTON subject="ほかのことについてきく" action="talk" file="gate_help" />
+	<BUTTON subject="やめる" action="close" />
+</TALK>
+
+
+<TALK id="gate_help2">
+	<BG file="piccolo01" />
+	<SENTENCE>キーボードのやじるしか</SENTENCE><BR />
+	<SENTENCE>がめんのひだりしたにある</SENTENCE><BR />
+	<SENTENCE>コントローラーをクリックすれば</SENTENCE><BR />
+	<SENTENCE>キャラクターがうごかせるぞ</SENTENCE>
+	<BUTTON subject="NEXT" action="talk" file="gate_help2_2" />
+</TALK>
+
+
+<TALK id="gate_help2_2">
+	<BG file="piccolo01" />
+	<SENTENCE>けっていするときは</SENTENCE><BR />
+	<SENTENCE>マウスでクリックするか</SENTENCE><BR />
+	<SENTENCE>キーボードのエンターキーをおせ</SENTENCE>
+	<BUTTON subject="NEXT" action="talk" file="gate_help2_3" />
+</TALK>
+
+
+<TALK id="gate_help2_3">
+	<BG file="piccolo01" />
+	<SENTENCE>くわしくはがめんのしたのほうに</SENTENCE><BR />
+	<SENTENCE>マウスをもっていくとあらわれる</SENTENCE><BR />
+	<SENTENCE>ヘルプのがめんをみておくのだな</SENTENCE>
+	<BUTTON subject="ほかのことについてきく" action="talk" file="gate_help" />
+	<BUTTON subject="やめる" action="close" />
+</TALK>
+
+
+<TALK id="gate_help3">
+	<BG file="piccolo01" />
+	<SENTENCE>ジャンプランドはリンクフリーだ</SENTENCE><BR />
+	<SENTENCE>このさきにバナーがあるのですきな</SENTENCE><BR />
+	<SENTENCE>ものをえらんでもっていけ</SENTENCE>
+	<BUTTON subject="ほかのことについてきく" action="talk" file="gate_help" />
+	<BUTTON subject="やめる" action="close" />
+</TALK>

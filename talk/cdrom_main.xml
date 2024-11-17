@@ -1,0 +1,1788 @@
+<TALK id="goku_adult_t1">
+	<BG file="goku_adult01" />
+	<SENTENCE>亀仙人のじっちゃんちはうみの</SENTENCE><BR />
+	<SENTENCE>むこうだぞ</SENTENCE><BR />
+	<SENTENCE>オラもひさしぶりにけいこでも</SENTENCE><BR />
+	<SENTENCE>つけてもらっか!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t2">
+	<BG file="goku_adult01" />
+	<SENTENCE>天下一武道会のかいじょうなら</SENTENCE><BR />
+	<SENTENCE>すぐそこだぞ</SENTENCE><BR />
+	<SENTENCE>はやく武道会はじまんねえかな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t3">
+	<BG file="goku_adult01" />
+	<SENTENCE>カリン様にもずいぶんあって</SENTENCE><BR />
+	<SENTENCE>なかったな</SENTENCE><BR />
+	<SENTENCE>ひさしぶりに塔のぼって</SENTENCE><BR />
+	<SENTENCE>あそびにいくか</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t4">
+	<BG file="goku_adult01" />
+	<SENTENCE>いま　いけねえところはしばらく</SENTENCE><BR />
+	<SENTENCE>まつしかねーな</SENTENCE><BR />
+	<SENTENCE>まっ　そのうちいけるようになるって</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+<TALK id="goku_adult_t5">
+	<BG file="goku_adult01" />
+	<SENTENCE>マンガオンラインってとこで</SENTENCE><BR />
+	<SENTENCE>オラがこどものころのはなしが</SENTENCE><BR />
+	<SENTENCE>よめるんだってな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t6">
+	<BG file="goku_adult01" />
+	<SENTENCE>なあ　おめえも天下一武道会に</SENTENCE><BR />
+	<SENTENCE>でるんだろ?</SENTENCE><BR />
+	<SENTENCE>オラいまからわくわくしてきたぞ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t7">
+	<BG file="goku_adult01" />
+	<SENTENCE>オラわかるぞ　あのトッチオってやつ</SENTENCE><BR />
+	<SENTENCE>わるいやつじゃねえな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t8">
+	<BG file="goku_adult01" />
+	<SENTENCE>まちんなかはブルマんちみてえに</SENTENCE><BR />
+	<SENTENCE>にぎやかだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t9">
+	<BG file="goku_adult01" />
+	<SENTENCE>やっぱりおめえもくると</SENTENCE><BR />
+	<SENTENCE>おもってたぞ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t10">
+	<BG file="goku_adult01" />
+	<SENTENCE>こんどの天下一武道会じゃ</SENTENCE><BR />
+	<SENTENCE>どんなつええやつにあえるのか</SENTENCE><BR />
+	<SENTENCE>ワクワクするぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_t11">
+	<BG file="goku_adult01" />
+	<SENTENCE>オラとクイズで勝負すっか!</SENTENCE><BR />
+	<SENTENCE>さいしょっからとばしていくぞっ!</SENTENCE><BR />
+	<SENTENCE>オラに勝てたらおめえにかべがみを</SENTENCE><BR />
+	<SENTENCE>やるぞ!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_goku_adult" />
+	<BUTTON subject="やめる" action="talk" file="goku_adult_q1" />
+</TALK>
+
+
+
+<TALK id="goku_adult_qc">
+	<BG file="goku_adult01" />
+	<SENTENCE>おめえつええなあ　おどろいたぞ</SENTENCE><BR />
+	<SENTENCE>やくそくどおりオラのかべがみを</SENTENCE><BR />
+	<SENTENCE>やるよ　こんどはオラも負けねえ</SENTENCE><BR />
+	<SENTENCE>からな!</SENTENCE>
+	<FLAG name="wp_goku_adult" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="goku_adult_q1">
+	<BG file="goku_adult01" />
+	<SENTENCE>そっか　じゃあまたこんどにすっか</SENTENCE><BR />
+	<SENTENCE>たのしみにしてっからな!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="gohan_t1">
+	<BG file="gohan01" />
+	<SENTENCE>おとうさんがむかしのぼったって</SENTENCE><BR />
+	<SENTENCE>いうのはあの塔のことかな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t2">
+	<BG file="gohan01" />
+	<SENTENCE>おとうさんがこどもだったころの</SENTENCE><BR />
+	<SENTENCE>おはなしがマンガオンラインで</SENTENCE><BR />
+	<SENTENCE>みられるんですよね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t3">
+	<BG file="gohan01" />
+	<SENTENCE>ぼくシネマにいってみたいな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t4">
+	<BG file="gohan01" />
+	<SENTENCE>あのトッチオって　どんなひと</SENTENCE><BR />
+	<SENTENCE>なんでしょうね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t5">
+	<BG file="gohan01" />
+	<SENTENCE>もりのおくからなにか　けはいを</SENTENCE><BR />
+	<SENTENCE>かんじますね</SENTENCE><BR />
+	<SENTENCE>いまはまだちいさいみたいだけど</SENTENCE><BR />
+	<SENTENCE>かくじつにおおきくなっています…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t6">
+	<BG file="gohan01" />
+	<SENTENCE>天下一武道会はいつ</SENTENCE><BR />
+	<SENTENCE>はじまるんでしょうね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t7">
+	<BG file="gohan01" />
+	<SENTENCE>これまであつめたかべがみは</SENTENCE><BR />
+	<SENTENCE>ダウンロードセンターでもらえます!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t8">
+	<BG file="gohan01" />
+	<SENTENCE>こんどの天下一武道会　おとうさんと</SENTENCE><BR />
+	<SENTENCE>いっしょにさんかしたいんです!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t9">
+	<BG file="gohan01" />
+	<SENTENCE>ぼくおとうさんみたいにつよく</SENTENCE><BR />
+	<SENTENCE>なれるのかな…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t10">
+	<BG file="gohan01" />
+	<SENTENCE>あっわすれてた!</SENTENCE><BR />
+	<SENTENCE>しゅくだいしなきゃ!</SENTENCE><BR />
+	<SENTENCE>ここにいること　おかあさんには</SENTENCE><BR />
+	<SENTENCE>ないしょにしておいてくださいね!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_t11">
+	<BG file="gohan01" />
+	<SENTENCE>ぼくは闘いはあんまりすきじゃ</SENTENCE><BR />
+	<SENTENCE>ないんだ…　でもクイズなら負けない</SENTENCE><BR />
+	<SENTENCE>ですよ!　ぼくに勝てたらかべがみを</SENTENCE><BR />
+	<SENTENCE>プレゼントします!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_gohan" />
+	<BUTTON subject="やめる" action="talk" file="gohan_q1" />
+</TALK>
+
+
+
+<TALK id="gohan_qc">
+	<BG file="gohan01" />
+	<SENTENCE>やっぱりまだかなわないや…</SENTENCE><BR />
+	<SENTENCE>やくそくのかべがみをプレゼント</SENTENCE><BR />
+	<SENTENCE>しますね</SENTENCE>
+	<FLAG name="wp_gohan" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="gohan_q1">
+	<BG file="gohan01" />
+	<SENTENCE>そうですか</SENTENCE><BR />
+	<SENTENCE>じゃあまたこんど</SENTENCE><BR />
+	<SENTENCE>勝負してくださいね!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+<TALK id="krillin_t1">
+	<BG file="krillin01" />
+	<SENTENCE>オレもつぎの天下一武道会じゃ</SENTENCE><BR />
+	<SENTENCE>いいとこまでいけちゃうかもな?</SENTENCE><BR />
+	<SENTENCE>かいさいがまちどおしいな!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t2">
+	<BG file="krillin01" />
+	<SENTENCE>カメハウスは…　あれ?</SENTENCE><BR />
+	<SENTENCE>このあたりだったとおもったけど…</SENTENCE><BR />
+	<SENTENCE>ひさしぶりに亀仙人様にけいこを</SENTENCE><BR />
+	<SENTENCE>つけてもらおうとおもったんだけどな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t3">
+	<BG file="krillin01" />
+	<SENTENCE>マンガオンラインでランチさんが</SENTENCE><BR />
+	<SENTENCE>うけつけのバイトをしてるんだって?</SENTENCE><BR />
+	<SENTENCE>だいじょうぶかな…おきゃくさん</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t4">
+	<BG file="krillin01" />
+	<SENTENCE>もりのおくにあるのりものが</SENTENCE><BR />
+	<SENTENCE>みらいからきたっていう</SENTENCE><BR />
+	<SENTENCE>タイムマシンだろ?</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t5">
+	<BG file="krillin01" />
+	<SENTENCE>マンガがよみたいのか</SENTENCE><BR />
+	<SENTENCE>それならマンガオンラインに</SENTENCE><BR />
+	<SENTENCE>いってきたほうがいいぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t6">
+	<BG file="krillin01" />
+	<SENTENCE>オレも修業をなまけけてたわけじゃ</SENTENCE><BR />
+	<SENTENCE>ないぜ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t7">
+	<BG file="krillin01" />
+	<SENTENCE>オレ占いババのやかたじゃ　いいこと</SENTENCE><BR />
+	<SENTENCE>なかったなー…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t8">
+	<BG file="krillin01" />
+	<SENTENCE>オレもたまにはまちのほうにいって</SENTENCE><BR />
+	<SENTENCE>みるかな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t9">
+	<BG file="krillin01" />
+	<SENTENCE>ビーチのほうはみょうにのどかだなー</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t10">
+	<BG file="krillin01" />
+	<SENTENCE>オレってほんとにこれまでおんなに</SENTENCE><BR />
+	<SENTENCE>えんがなかったなあ…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_t11">
+	<BG file="krillin01" />
+	<SENTENCE>クイズで勝負?　しょうがないなー</SENTENCE><BR />
+	<SENTENCE>ま　もし勝てたらオレのかべがみ</SENTENCE><BR />
+	<SENTENCE>あげてもいいぜ</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_krillin" />
+	<BUTTON subject="やめる" action="talk" file="krillin_q1" />
+</TALK>
+
+
+
+<TALK id="krillin_qc">
+	<BG file="krillin01" />
+	<SENTENCE>まいった!　やっぱつよいなあ</SENTENCE><BR />
+	<SENTENCE>やくそくどおりオレのかべがみを</SENTENCE><BR />
+	<SENTENCE>やるよ</SENTENCE>
+	<FLAG name="wp_krillin" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="krillin_q1">
+	<BG file="krillin01" />
+	<SENTENCE>なんだやめるのか</SENTENCE><BR />
+	<SENTENCE>じゃあまたこんどな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="yamcha_t1">
+	<BG file="yamcha01" />
+	<SENTENCE>マンガオンラインにはもういって</SENTENCE><BR />
+	<SENTENCE>みたか?　どうやらまいしゅう</SENTENCE><BR />
+	<SENTENCE>げつようびに　しんさくが公開</SENTENCE><BR />
+	<SENTENCE>されるようだぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t2">
+	<BG file="yamcha01" />
+	<SENTENCE>きのせいか…　さっきもりのおくから</SENTENCE><BR />
+	<SENTENCE>おおきな　きをかんじたが…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t3">
+	<BG file="yamcha01" />
+	<SENTENCE>むてんろうし様をさいきんみかけ</SENTENCE><BR />
+	<SENTENCE>ないのだがどこにおられるのだろうか</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t4">
+	<BG file="yamcha01" />
+	<SENTENCE>占いババのやかたならビーチのほうに</SENTENCE><BR />
+	<SENTENCE>あるぞ　もっとも占いババはるす</SENTENCE><BR />
+	<SENTENCE>らしいのだが</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t5">
+	<BG file="yamcha01" />
+	<SENTENCE>つぎの天下一武道会こそは</SENTENCE><BR />
+	<SENTENCE>ぶざまなしあいはできないな…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t6">
+	<BG file="yamcha01" />
+	<SENTENCE>やはりまちのほうはにぎやかだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t7">
+	<BG file="yamcha01" />
+	<SENTENCE>ランチさんをマンガオンラインで</SENTENCE><BR />
+	<SENTENCE>みかけたぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t8">
+	<BG file="yamcha01" />
+	<SENTENCE>修業もいいがたまにはいきぬき</SENTENCE><BR />
+	<SENTENCE>しなくちゃな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t9">
+	<BG file="yamcha01" />
+	<SENTENCE>まだまだオレのウデもさびついちゃ</SENTENCE><BR />
+	<SENTENCE>いないぜ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t10">
+	<BG file="yamcha01" />
+	<SENTENCE>どうやらあたらしいアトラクションを</SENTENCE><BR />
+	<SENTENCE>まちのひがしでけんせつしている</SENTENCE><BR />
+	<SENTENCE>らしいな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_t11">
+	<BG file="yamcha01" />
+	<SENTENCE>オレのクイズにこたえられるかな?</SENTENCE><BR />
+	<SENTENCE>かかってこい!　勝てたらかべがみを</SENTENCE><BR />
+	<SENTENCE>プレゼントだ!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_yamcha" />
+	<BUTTON subject="やめる" action="talk" file="yamcha_q1" />
+</TALK>
+
+
+
+<TALK id="yamcha_qc">
+	<BG file="yamcha01" />
+	<SENTENCE>さすがだな</SENTENCE><BR />
+	<SENTENCE>やくそくどおりオレのかべがみを</SENTENCE><BR />
+	<SENTENCE>もっていってくれ</SENTENCE>
+	<FLAG name="wp_yamcha" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yamcha_q1">
+	<BG file="yamcha01" />
+	<SENTENCE>そうか　ではつぎのきかいを</SENTENCE><BR />
+	<SENTENCE>まっているぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="tenshinhan_t1">
+	<BG file="tenshinhan01" />
+	<SENTENCE>天下一武道会にそなえ修業が</SENTENCE><BR />
+	<SENTENCE>したいなら亀仙人にけいこを</SENTENCE><BR />
+	<SENTENCE>つけてもらったらどうだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t2">
+	<BG file="tenshinhan01" />
+	<SENTENCE>あそびたいのならまちのほうに</SENTENCE><BR />
+	<SENTENCE>いけばいい</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t3">
+	<BG file="tenshinhan01" />
+	<SENTENCE>天下一武道会がかいさいされるまで</SENTENCE><BR />
+	<SENTENCE>まだじかんがありそうだな…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t4">
+	<BG file="tenshinhan01" />
+	<SENTENCE>もりのおくにあるのがタイムマシンか</SENTENCE><BR />
+	<SENTENCE>どうやら　まだうごかないようだがな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t5">
+	<BG file="tenshinhan01" />
+	<SENTENCE>占いババのやかたなら　たしか</SENTENCE><BR />
+	<SENTENCE>カメハウスのちかくだときいたが…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t6">
+	<BG file="tenshinhan01" />
+	<SENTENCE>まさか武道会で　よせんはいたい</SENTENCE><BR />
+	<SENTENCE>なんてことはないだろうな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t7">
+	<BG file="tenshinhan01" />
+	<SENTENCE>どうした　もう修業はしなくて</SENTENCE><BR />
+	<SENTENCE>いいのか?</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t8">
+	<BG file="tenshinhan01" />
+	<SENTENCE>かべがみはダウンロードセンターへ</SENTENCE><BR />
+	<SENTENCE>いけばてにはいるようだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t9">
+	<BG file="tenshinhan01" />
+	<SENTENCE>どうやら修業はおこたっていない</SENTENCE><BR />
+	<SENTENCE>ようだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t10">
+	<BG file="tenshinhan01" />
+	<SENTENCE>武道会がはじまるのがまちどおしいぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_t11">
+	<BG file="tenshinhan01" />
+	<SENTENCE>クイズ勝負か　さっそくおてあわせ</SENTENCE><BR />
+	<SENTENCE>ねがおう　オレに勝てたらかべがみを</SENTENCE><BR />
+	<SENTENCE>もっていくがいい</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_tenshinhan" />
+	<BUTTON subject="やめる" action="talk" file="tenshinhan_q1" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_qc">
+	<BG file="tenshinhan01" />
+	<SENTENCE>クッ　またウデをあげたようだな</SENTENCE><BR />
+	<SENTENCE>オレのかべがみをもっていけ</SENTENCE><BR />
+	<SENTENCE>だがこのつぎはこうかんたんには</SENTENCE><BR />
+	<SENTENCE>いかんぞ</SENTENCE>
+	<FLAG name="wp_tenshinhan" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="tenshinhan_q1">
+	<BG file="tenshinhan01" />
+	<SENTENCE>オレとは闘えないというのか</SENTENCE><BR />
+	<SENTENCE>まあいい　いずれおまえのほうから</SENTENCE><BR />
+	<SENTENCE>闘わせてくれと いわせてやるさ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="piccolo_t1">
+	<BG file="piccolo01" />
+	<SENTENCE>マンガオンラインか…　なるほど</SENTENCE><BR />
+	<SENTENCE>かこをしっておくのもいいかも</SENTENCE><BR />
+	<SENTENCE>しれんな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t2">
+	<BG file="piccolo01" />
+	<SENTENCE>うみのほうに占いを</SENTENCE><BR />
+	<SENTENCE>するやつがいるそうだな</SENTENCE><BR />
+	<SENTENCE>まったく　ちきゅうじんとは</SENTENCE><BR />
+	<SENTENCE>まわりくどいやつらだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t3">
+	<BG file="piccolo01" />
+	<SENTENCE>つぎの天下一武道会にはでるの</SENTENCE><BR />
+	<SENTENCE>だろうな　もっともゆうしょうは</SENTENCE><BR />
+	<SENTENCE>このオレさまがいただいていくの</SENTENCE><BR />
+	<SENTENCE>だがな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t4">
+	<BG file="piccolo01" />
+	<SENTENCE>ひがしのもりにみえるのが</SENTENCE><BR />
+	<SENTENCE>タイムマシンか…　だがまだ</SENTENCE><BR />
+	<SENTENCE>うごくようすはないようだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t5">
+	<BG file="piccolo01" />
+	<SENTENCE>せめてカリン塔をのぼりきるくらいの</SENTENCE><BR />
+	<SENTENCE>じつりょくがなければ天下一武道会</SENTENCE><BR />
+	<SENTENCE>ではかちすすめまい</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t6">
+	<BG file="piccolo01" />
+	<SENTENCE>このオレがまちをであるくと</SENTENCE><BR />
+	<SENTENCE>さわがしいことになりそうだからな</SENTENCE><BR />
+	<SENTENCE>しばらくはこのあたりにいることに</SENTENCE><BR />
+	<SENTENCE>しよう</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t7">
+	<BG file="piccolo01" />
+	<SENTENCE>わすれるな!</SENTENCE><BR />
+	<SENTENCE>おれはべつにきさまらのなかまに</SENTENCE><BR />
+	<SENTENCE>なったわけじゃないんだからな!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t8">
+	<BG file="piccolo01" />
+	<SENTENCE>まったく　にんげんのまちは</SENTENCE><BR />
+	<SENTENCE>やかましくてかなわんな!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t9">
+	<BG file="piccolo01" />
+	<SENTENCE>あつめたかべがみはどこかだと?</SENTENCE><BR />
+	<SENTENCE>ダウンロードセンターへ</SENTENCE><BR />
+	<SENTENCE>いってみることだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t10">
+	<BG file="piccolo01" />
+	<SENTENCE>フン…　あそんでばかりいると</SENTENCE><BR />
+	<SENTENCE>ウデがなまるぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_t11">
+	<BG file="piccolo01" />
+	<SENTENCE>このオレとクイズで勝負したいだと?</SENTENCE><BR />
+	<SENTENCE>ふん…いいだろう　オレに勝てれば</SENTENCE><BR />
+	<SENTENCE>かべがみをくれてやる</SENTENCE><BR />
+	<SENTENCE>だが負けたときはわかっているな!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_piccolo" />
+	<BUTTON subject="やめる" action="talk" file="piccolo_q1" />
+</TALK>
+
+
+
+<TALK id="piccolo_qc">
+	<BG file="piccolo01" />
+	<SENTENCE>フン　おもったよりやるな</SENTENCE><BR />
+	<SENTENCE>いいだろう　オレさまのかべがみを</SENTENCE><BR />
+	<SENTENCE>くれてやる</SENTENCE>
+	<FLAG name="wp_piccolo" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="piccolo_q1">
+	<BG file="piccolo01" />
+	<SENTENCE>どうした　オレとの勝負は</SENTENCE><BR />
+	<SENTENCE>そんなにさけたいのか</SENTENCE><BR />
+	<SENTENCE>まあいいだろう…</SENTENCE><BR />
+	<SENTENCE>いつでもあいてになってやるぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="vegeta_t1">
+	<BG file="vegeta01" />
+	<SENTENCE>あのみょうにたかい塔といい</SENTENCE><BR />
+	<SENTENCE>このほしにはへんなものが</SENTENCE><BR />
+	<SENTENCE>おおすぎるぞ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t2">
+	<BG file="vegeta01" />
+	<SENTENCE>なんでも占ってもらえるところ</SENTENCE><BR />
+	<SENTENCE>だと?　オレはそんなくだらん</SENTENCE><BR />
+	<SENTENCE>ものにはきょうみがないな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t3">
+	<BG file="vegeta01" />
+	<SENTENCE>武道会とやらにはいかなくて</SENTENCE><BR />
+	<SENTENCE>いいのか?　もっとも　いまのきさま</SENTENCE><BR />
+	<SENTENCE>ではでるだけムダだろうがな!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t4">
+	<BG file="vegeta01" />
+	<SENTENCE>このほしではきろくえいぞうが</SENTENCE><BR />
+	<SENTENCE>シネマでみられるのか</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t5">
+	<BG file="vegeta01" />
+	<SENTENCE>もりにあるのがタイムマシンとやらか</SENTENCE><BR />
+	<SENTENCE>まあ　オレにはかかわりのなさそうな</SENTENCE><BR />
+	<SENTENCE>はなしだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t6">
+	<BG file="vegeta01" />
+	<SENTENCE>ふん　きさまか　勝負ならいつでも</SENTENCE><BR />
+	<SENTENCE>してやるぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t7">
+	<BG file="vegeta01" />
+	<SENTENCE>このオレのじつりょくがこのままだと</SENTENCE><BR />
+	<SENTENCE>おもわんことだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t8">
+	<BG file="vegeta01" />
+	<SENTENCE>なにかしらないかだと?</SENTENCE><BR />
+	<SENTENCE>きさまなんぞにおしえん!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t9">
+	<BG file="vegeta01" />
+	<SENTENCE>おぼえておけ!</SENTENCE><BR />
+	<SENTENCE>サイヤ人は闘えば闘うだけ</SENTENCE><BR />
+	<SENTENCE>つよくなるんだ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t10">
+	<BG file="vegeta01" />
+	<SENTENCE>こんなところでうろうろしていて</SENTENCE><BR />
+	<SENTENCE>いいのか?　まあせいぜいくんれんを</SENTENCE><BR />
+	<SENTENCE>おこたっているがいい</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_t11">
+	<BG file="vegeta01" />
+	<SENTENCE>かべがみがほしいだと?　フンッ!</SENTENCE><BR />
+	<SENTENCE>ふざけやがって…</SENTENCE><BR />
+	<SENTENCE>いいだろう　ただし</SENTENCE><BR />
+	<SENTENCE>おれさまとクイズで勝負だ!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_vegeta" />
+	<BUTTON subject="やめる" action="talk" file="vegeta_q1" />
+</TALK>
+
+
+
+<TALK id="vegeta_qc">
+	<BG file="vegeta01" />
+	<SENTENCE>クッ　かべがみなどくれてやる</SENTENCE><BR />
+	<SENTENCE>たまたまこんかい勝てたからと</SENTENCE><BR />
+	<SENTENCE>いっていいきになるなよ!</SENTENCE><BR />
+	<SENTENCE>このつぎはこうはいかんからな!</SENTENCE>
+	<FLAG name="wp_vegeta" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="vegeta_q1">
+	<BG file="vegeta01" />
+	<SENTENCE>フン　こしぬけが!</SENTENCE><BR />
+	<SENTENCE>みのほどをわきまえているようだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="trunks_t1">
+	<BG file="trunks01" />
+	<SENTENCE>オレののってきたタイムマシンはまだ</SENTENCE><BR />
+	<SENTENCE>じゅうでんがおわらないので</SENTENCE><BR />
+	<SENTENCE>つかえませんよ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t2">
+	<BG file="trunks01" />
+	<SENTENCE>まちのひがしのほうでなにかけんせつ</SENTENCE><BR />
+	<SENTENCE>してるみたいですね</SENTENCE><BR />
+	<SENTENCE>オレのいたみらいではなにもなかった</SENTENCE><BR />
+	<SENTENCE>ところなので　なにができるのか</SENTENCE><BR />
+	<SENTENCE>まではわかりませんが…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t3">
+	<BG file="trunks01" />
+	<SENTENCE>いまはいけなくても　みらいになれば</SENTENCE><BR />
+	<SENTENCE>いけるようになるばしょがたくさん</SENTENCE><BR />
+	<SENTENCE>あります</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t4">
+	<BG file="trunks01" />
+	<SENTENCE>マンガオンラインには</SENTENCE><BR />
+	<SENTENCE>いってみましたか?　まいしゅう</SENTENCE><BR />
+	<SENTENCE>しんさくが公開されるみたいですね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t5">
+	<BG file="trunks01" />
+	<SENTENCE>シネマでみられるものには</SENTENCE><BR />
+	<SENTENCE>オレもきょうみがありますね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t6">
+	<BG file="trunks01" />
+	<SENTENCE>タイムマシンのじゅうでんには</SENTENCE><BR />
+	<SENTENCE>まだじかんがかかりそうです</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t7">
+	<BG file="trunks01" />
+	<SENTENCE>天下一武道会ですか</SENTENCE><BR />
+	<SENTENCE>オレもしゅつじょうしたいのは</SENTENCE><BR />
+	<SENTENCE>やまやまなんですが　れきしが</SENTENCE><BR />
+	<SENTENCE>かわってしまわないか</SENTENCE><BR />
+	<SENTENCE>しんぱいです</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t8">
+	<BG file="trunks01" />
+	<SENTENCE>おなじばしょでもやはりオレのいた</SENTENCE><BR />
+	<SENTENCE>みらいとはふんいきがちがいますね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t9">
+	<BG file="trunks01" />
+	<SENTENCE>オレもまだまだ修業がたりませんね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t10">
+	<BG file="trunks01" />
+	<SENTENCE>あつめたかべがみは</SENTENCE><BR />
+	<SENTENCE>ダウンロードセンターで</SENTENCE><BR />
+	<SENTENCE>てにいれられるようですね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_t11">
+	<BG file="trunks01" />
+	<SENTENCE>クイズ勝負ですね　おてやわらかに</SENTENCE><BR />
+	<SENTENCE>おねがいします　オレに勝てたら</SENTENCE><BR />
+	<SENTENCE>かべがみをさしあげますよ</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_trunks" />
+	<BUTTON subject="やめる" action="talk" file="trunks_q1" />
+</TALK>
+
+
+
+<TALK id="trunks_qc">
+	<BG file="trunks01" />
+	<SENTENCE>やはりつよいですね</SENTENCE><BR />
+	<SENTENCE>きいていたとおりです　オレの</SENTENCE><BR />
+	<SENTENCE>かべがみをさしあげますよ</SENTENCE>
+	<FLAG name="wp_trunks" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="trunks_q1">
+	<BG file="trunks01" />
+	<SENTENCE>そうですか…</SENTENCE><BR />
+	<SENTENCE>ざんねんですがまたのきかいを</SENTENCE><BR />
+	<SENTENCE>まつことにします</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="bulma_t1">
+	<BG file="bulma" />
+	<SENTENCE>亀仙人のじいさん?　しばらく</SENTENCE><BR />
+	<SENTENCE>あってないけど　うみのほうにいけば</SENTENCE><BR />
+	<SENTENCE>あえるんじゃないかしら</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t2">
+	<BG file="bulma" />
+	<SENTENCE>あら　こんなところでなにしてるの?</SENTENCE><BR />
+	<SENTENCE>じょうえいかいをみにきたんだったら</SENTENCE><BR />
+	<SENTENCE>はやくしないとはじまっちゃうわよ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t3">
+	<BG file="bulma" />
+	<SENTENCE>このあたりにこんどアトラクションが</SENTENCE><BR />
+	<SENTENCE>ふえるらしいわね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t4">
+	<BG file="bulma" />
+	<SENTENCE>まちのひがしのほうでなにか</SENTENCE><BR />
+	<SENTENCE>つくってるみたいね　なにが</SENTENCE><BR />
+	<SENTENCE>できるのかしら</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t5">
+	<BG file="bulma" />
+	<SENTENCE>もりのおくにうちのかいしゃの</SENTENCE><BR />
+	<SENTENCE>のりものがあるってきいたんだけど</SENTENCE><BR />
+	<SENTENCE>きになるわね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t6">
+	<BG file="bulma" />
+	<SENTENCE>ショッピングをたのしむんだったら</SENTENCE><BR />
+	<SENTENCE>だんぜんタウンしゅうへんよね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t7">
+	<BG file="bulma" />
+	<SENTENCE>あのトッチォってこ　なにものなの?</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t8">
+	<BG file="bulma" />
+	<SENTENCE>このあたりはおしゃれなとかい人の</SENTENCE><BR />
+	<SENTENCE>わたしにはぴったりね</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t9">
+	<BG file="bulma" />
+	<SENTENCE>あのきょだいな　がいとうテレビも</SENTENCE><BR />
+	<SENTENCE>うちのかいしゃのせいひんなのよ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t10">
+	<BG file="bulma" />
+	<SENTENCE>そういえばあのスケベじいさん</SENTENCE><BR />
+	<SENTENCE>さいきんみかけないわね</SENTENCE><BR />
+	<SENTENCE>げんきでやってるのかしら</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_t11">
+	<BG file="bulma" />
+	<SENTENCE>クイズで勝負ですって？　いいわよ</SENTENCE><BR />
+	<SENTENCE>わたしに勝てたらかべがみあげても</SENTENCE><BR />
+	<SENTENCE>いいわ</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_bulma" />
+	<BUTTON subject="やめる" action="talk" file="bulma_q1" />
+</TALK>
+
+
+
+<TALK id="bulma_qc">
+	<BG file="bulma" />
+	<SENTENCE>へえ　やるじゃないの</SENTENCE><BR />
+	<SENTENCE>いいわ　わたしのかべがみ</SENTENCE><BR />
+	<SENTENCE>もっていきなさい</SENTENCE>
+	<FLAG name="wp_bulma" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="bulma_q1">
+	<BG file="bulma" />
+	<SENTENCE>あら　らしくないじゃない</SENTENCE><BR />
+	<SENTENCE>それともなによ　わたしのかべがみ</SENTENCE><BR />
+	<SENTENCE>なんていらないっていうの!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="yajirobe_t1">
+	<BG file="yajirobe01" />
+	<SENTENCE>あの占いババってやつ　なにを</SENTENCE><BR />
+	<SENTENCE>占ってくれるんだろうな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t2">
+	<BG file="yajirobe01" />
+	<SENTENCE>カリン塔に仙豆でももらいにいくか</SENTENCE><BR />
+	<SENTENCE>しかしあれをまたのぼるとなると</SENTENCE><BR />
+	<SENTENCE>めんどくせえなあ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t3">
+	<BG file="yajirobe01" />
+	<SENTENCE>武道会だと?　オレはそういうのに</SENTENCE><BR />
+	<SENTENCE>きょうみはねえんだ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t4">
+	<BG file="yajirobe01" />
+	<SENTENCE>マンガオンライン?</SENTENCE><BR />
+	<SENTENCE>まちのほうにあるのはしってるが</SENTENCE><BR />
+	<SENTENCE>きょうみがあるならいってくりゃいい</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t5">
+	<BG file="yajirobe01" />
+	<SENTENCE>シネマだあ?</SENTENCE><BR />
+	<SENTENCE>まちのほうはくいものやいがい</SENTENCE><BR />
+	<SENTENCE>よくわからねえが</SENTENCE><BR />
+	<SENTENCE>そんなところもあったかもな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t6">
+	<BG file="yajirobe01" />
+	<SENTENCE>ん?　仙豆?</SENTENCE><BR />
+	<SENTENCE>んなもんオレがぜんぶくっちまったぞ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t7">
+	<BG file="yajirobe01" />
+	<SENTENCE>くそ　はらがへったぞ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t8">
+	<BG file="yajirobe01" />
+	<SENTENCE>さっさとめしにするか</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t9">
+	<BG file="yajirobe01" />
+	<SENTENCE>たまにはまちにいってうまいものでも</SENTENCE><BR />
+	<SENTENCE>たらふく　くうか</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t10">
+	<BG file="yajirobe01" />
+	<SENTENCE>うみにいって　でかいさかなでも</SENTENCE><BR />
+	<SENTENCE>つってくるか</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_t11">
+	<BG file="yajirobe01" />
+	<SENTENCE>オレとクイズ勝負をするってのか?</SENTENCE><BR />
+	<SENTENCE>いいぜ　オレに勝てたらかべがみを</SENTENCE><BR />
+	<SENTENCE>やる　でもオレが勝ったらなにか</SENTENCE><BR />
+	<SENTENCE>くわせろよ!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_yajirobe" />
+	<BUTTON subject="やめる" action="talk" file="yajirobe_q1" />
+</TALK>
+
+
+
+<TALK id="yajirobe_qc">
+	<BG file="yajirobe01" />
+	<SENTENCE>やっ　やるじゃねえか</SENTENCE><BR />
+	<SENTENCE>しかたがねえ　やくそくだからな</SENTENCE><BR />
+	<SENTENCE>オレのかべがみをもってきな</SENTENCE>
+	<FLAG name="wp_yajirobe" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="yajirobe_q1">
+	<BG file="yajirobe01" />
+	<SENTENCE>なんでえ　めんどくさくなったのか</SENTENCE><BR />
+	<SENTENCE>じゃあ　またこんどだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="oolong_t1">
+	<BG file="oolong01" />
+	<SENTENCE>にしにあるたてものは占いババの</SENTENCE><BR />
+	<SENTENCE>やかただってな　でも占いババは</SENTENCE><BR />
+	<SENTENCE>いまはるすらしいぜ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t2">
+	<BG file="oolong01" />
+	<SENTENCE>そろそろ天下一武道会のじきだなー</SENTENCE><BR />
+	<SENTENCE>オメーも　しゅつじょうすんだろ?</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t3">
+	<BG file="oolong01" />
+	<SENTENCE>オレもシネマにいってみようかな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t4">
+	<BG file="oolong01" />
+	<SENTENCE>まちのおくのほうから</SENTENCE><BR />
+	<SENTENCE>なんかおとがきこえてくるなー</SENTENCE><BR />
+	<SENTENCE>なにかつくってるみたいだな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t5">
+	<BG file="oolong01" />
+	<SENTENCE>あのたかい塔がカリン塔か</SENTENCE><BR />
+	<SENTENCE>よくあんなののぼるもんだぜ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t6">
+	<BG file="oolong01" />
+	<SENTENCE>もりのおくにへんなもんがあったけど</SENTENCE><BR />
+	<SENTENCE>いったいありゃなんなんだ?</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t7">
+	<BG file="oolong01" />
+	<SENTENCE>へへへ　あっちのビーチにはぴちぴち</SENTENCE><BR />
+	<SENTENCE>ギャルがいっぱいいるのかなー</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t8">
+	<BG file="oolong01" />
+	<SENTENCE>まちのほうであたらしい</SENTENCE><BR />
+	<SENTENCE>アトラクションをつくってるん</SENTENCE><BR />
+	<SENTENCE>だってな</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t9">
+	<BG file="oolong01" />
+	<SENTENCE>まちのほうはテレビとうとか</SENTENCE><BR />
+	<SENTENCE>あってずいぶんにぎやかだなー</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t10">
+	<BG file="oolong01" />
+	<SENTENCE>オレが天下一武道会にしゅつじょう</SENTENCE><BR />
+	<SENTENCE>だって?　じょうだんはよしてくれよ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_t11">
+	<BG file="oolong01" />
+	<SENTENCE>オ、オレと闘うだって?</SENTENCE><BR />
+	<SENTENCE>あ、あんまりオレをなめるなよー</SENTENCE><BR />
+	<SENTENCE>オレのクイズをとけなきゃ</SENTENCE><BR />
+	<SENTENCE>ギャルのパンティ　じゃなかった</SENTENCE><BR />
+	<SENTENCE>かべがみはわたせないからな</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_oolong" />
+	<BUTTON subject="やめる" action="talk" file="oolong_q1" />
+</TALK>
+
+
+
+<TALK id="oolong_qc">
+	<BG file="oolong01" />
+	<SENTENCE>へっ、へん!</SENTENCE><BR />
+	<SENTENCE>きょうはこのくらいでやめとくか</SENTENCE><BR />
+	<SENTENCE>オレのかべがみをもってくといいぜ</SENTENCE>
+	<FLAG name="wp_oolong" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="oolong_q1">
+	<BG file="oolong01" />
+	<SENTENCE>な、なんだ やめとくのか</SENTENCE><BR />
+	<SENTENCE>オレもそれがいいとおもおうぜ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="chichi">
+	<BG file="chichi" />
+	<SENTENCE>悟飯ちゃんがえらいがくしゃさんに</SENTENCE><BR />
+	<SENTENCE>なれるように　おらクイズを</SENTENCE><BR />
+	<SENTENCE>かんがえてきただ!</SENTENCE><BR />
+	<SENTENCE>ぜんぶこたえられればおらのかべがみ</SENTENCE><BR />
+	<SENTENCE>やるだよ!</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_chichi" />
+	<BUTTON subject="やめる" action="talk" file="chichi_q1" />
+</TALK>
+
+
+
+<TALK id="chichi_qc">
+	<BG file="chichi" />
+	<SENTENCE>やっぱりまだかんたんすぎただか…</SENTENCE><BR />
+	<SENTENCE>もっとむずかしいもんだいにしないと</SENTENCE><BR />
+	<SENTENCE>悟飯ちゃんのべんきょうにならないだ</SENTENCE>
+	<FLAG name="wp_chichi" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="chichi_q1">
+	<BG file="chichi" />
+	<SENTENCE>これからはいっぱいべんきょうして</SENTENCE><BR />
+	<SENTENCE>えらくならねえといけない</SENTENCE><BR />
+	<SENTENCE>じだいなんだぞ!</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="mangaonline">
+	<BG file="lunch" />
+	<SENTENCE>マンガオンラインへようこそ</SENTENCE><BR />
+	<SENTENCE>ここではドラゴンボールのげんさく</SENTENCE><BR />
+	<SENTENCE>コミックスをよめるんですよ</SENTENCE><BR />
+	<SENTENCE>ぜひたのしんでいってくださいね</SENTENCE>
+	<BUTTON subject="はいる" action="event" file="cdrom_mangaonline" />
+	<BUTTON subject="はいらない" action="close" />
+</TALK>
+
+
+
+<TALK id="lunch2">
+	<SENTENCE>なんだてめえは!?</SENTENCE><BR />
+	<SENTENCE>なんでオレはこんなところにいるんだ</SENTENCE><BR />
+	<SENTENCE>ここはマンガオンラインだと?</SENTENCE><BR />
+	<SENTENCE>なんだかよくわからねえけど</SENTENCE><BR />
+	<SENTENCE>うだうだいってねえでさっさと</SENTENCE><BR />
+	<SENTENCE>はいっていきやがれ!</SENTENCE>
+	<BUTTON subject="はいる" action="event" file="cdrom_mangaonline" />
+</TALK>
+
+
+
+
+
+
+<TALK id="monitortower">
+	<BG file="dende" />
+	<SENTENCE>ようこそモニタータワーへ!</SENTENCE><BR />
+	<SENTENCE>ここではドラゴンボールZの</SENTENCE><BR />
+	<SENTENCE>DVDがよやくできるんですよ</SENTENCE><BR />
+	<SENTENCE>しゅうえいしゃMekke!の</SENTENCE><BR />
+	<SENTENCE>よやくページへあそびにいきますか?</SENTENCE>
+	<BUTTON subject="いく" action="link" file="http://mekke.shueisha.co.jp/index_doragonball.html" />
+	<BUTTON subject="いかない" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="tenkaichi">
+	<BG file="kancho" />
+	<SENTENCE>天下一武道会はただいま</SENTENCE><BR />
+	<SENTENCE>シーズンオフとなっております</SENTENCE><BR />
+	<SENTENCE>せんしゅさんかきぼうのかたは</SENTENCE><BR />
+	<SENTENCE>エントリーかいしまでしばらく</SENTENCE><BR />
+	<SENTENCE>おまちください</SENTENCE>
+	<BUTTON subject="もどる" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="cinema">
+	<BG file="stewardess" />
+	<SENTENCE>ようこそ!　とうげきじょうでは</SENTENCE><BR />
+	<SENTENCE>ただいま　ドラゴンボール</SENTENCE><BR />
+	<SENTENCE>DVD BOXのよこくへんを</SENTENCE><BR />
+	<SENTENCE>公開しております</SENTENCE><BR />
+	<SENTENCE>ぜひおたちよりください!</SENTENCE>
+	<BUTTON subject="はいる" action="event" file="cinema" />
+	<BUTTON subject="はいらない" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="downloadcenter">
+	<BG file="robot" />
+	<SENTENCE>ダウンロードセンターへようこそ</SENTENCE><BR />
+	<SENTENCE>あつめたかべがみはこちらでまとめて</SENTENCE><BR />
+	<SENTENCE>ダウンロードしていってくださいね</SENTENCE>
+	<BUTTON subject="はいる" action="event" file="downloadcenter" />
+	<BUTTON subject="はいらない" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="uranai">
+	<BG file="ghost" />
+	<SENTENCE>いらっしゃいませー</SENTENCE><BR />
+	<SENTENCE>占いババさまのやかたへようこそー</SENTENCE><BR />
+	<SENTENCE>ざんねんですが占いババさまは</SENTENCE><BR />
+	<SENTENCE>ただいま　るすにしておりますー</SENTENCE><BR />
+	<SENTENCE>またひをあらためておこしください</SENTENCE>
+	<BUTTON subject="もどる" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="picturebook">
+	<BG file="toccio01" />
+	<SENTENCE>よくきたぼ!　おれトッチオ!</SENTENCE><BR />
+	<SENTENCE>おいらのしゅつえんするしんさくの</SENTENCE><BR />
+	<SENTENCE>えほん「てんしのトッチオ」を</SENTENCE><BR />
+	<SENTENCE>けんがくしていくぼ!</SENTENCE>
+	<BUTTON subject="はいる" action="event" file="picturebook" />
+	<BUTTON subject="はいらない" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="karintower_ready">
+	<BG file="upa_bora" />
+	<SENTENCE>おお　よくきた</SENTENCE><BR />
+	<SENTENCE>ここはせいちカリン</SENTENCE><BR />
+	<SENTENCE>いだいな神のたてたカリン塔を</SENTENCE><BR />
+	<SENTENCE>まつるちだ</SENTENCE><BR />
+	<SENTENCE>けんぶつにきたのだな</SENTENCE><BR />
+	<SENTENCE>ゆっくりしていくがいい</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="karintower_ok">
+	<BG file="upa_bora" />
+	<SENTENCE>おお　よくきた</SENTENCE><BR />
+	<SENTENCE>ここはせいちカリン</SENTENCE><BR />
+	<SENTENCE>なんとカリン塔をのぼりにきたのか</SENTENCE><BR />
+	<SENTENCE>さっそくちょうせんしていくのか</SENTENCE>
+	<BUTTON subject="のぼる" action="event" file="cdrom_typing_karintower" />
+	<BUTTON subject="のぼらない" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="kamesennin">
+	<BG file="kamesennin01" />
+	<SENTENCE>おお　とおいところをよくきたのう</SENTENCE><BR />
+	<SENTENCE>わざわざわしをたずねてくるとは</SENTENCE><BR />
+	<SENTENCE>しゅぎょうでもしにきたのかのう</SENTENCE><BR />
+	<BUTTON subject="はい" action="talk" file="kamesennin2_1" />
+	<BUTTON subject="いいえ" action="talk" file="kamesennin2_2" />
+</TALK>
+
+
+
+<TALK id="kamesennin2_1">
+	<BG file="kamesennin01" />
+	<SENTENCE>おおそうか</SENTENCE><BR />
+	<SENTENCE>じゃが　ひじょうにおしいのう…</SENTENCE><BR />
+	<SENTENCE>このじき 亀せんりゅう修業コースは</SENTENCE><BR />
+	<SENTENCE>シーズンオフなのじゃ</SENTENCE><BR />
+	<SENTENCE>もうちっとしてからきてくれい</SENTENCE><BR />
+	<BUTTON subject="NEXT" action="talk" file="kamesennin3_1" />
+</TALK>
+
+
+
+<TALK id="kamesennin2_2">
+	<BG file="kamesennin01" />
+	<SENTENCE>なんと</SENTENCE><BR />
+	<SENTENCE>ではおぬしもしや　わしに</SENTENCE><BR />
+	<SENTENCE>クイズ勝負をいどみにきたのじゃな?</SENTENCE><BR />
+	<SENTENCE>よいじゃろう　わしに勝てたら</SENTENCE><BR />
+	<SENTENCE>かべがみをやろう</SENTENCE><BR />
+	<SENTENCE>どうじゃ　ほしいじゃろう</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_kamesennin" />
+	<BUTTON subject="いらない" action="talk" file="kamesennin3_2" />
+</TALK>
+
+
+
+<TALK id="kamesennin3_1">
+	<BG file="kamesennin01" />
+	<SENTENCE>そうじゃ　かわりといっては</SENTENCE><BR />
+	<SENTENCE>なんじゃが　アドベンチャーランドに</SENTENCE><BR />
+	<SENTENCE>あるカリン塔をしっておるかのう</SENTENCE><BR />
+	<SENTENCE>あの塔をさいごまでのぼりきることが</SENTENCE><BR />
+	<SENTENCE>できればものすごいちからをさずかる</SENTENCE><BR />
+	<SENTENCE>ことじゃろう　がんばってしゅぎょう</SENTENCE><BR />
+	<SENTENCE>するんじゃぞ</SENTENCE>
+	<FLAG name="karin_ok" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="kamesennin3_2">
+	<BG file="kamesennin01" />
+	<SENTENCE>なんと　わしのかべがみは</SENTENCE><BR />
+	<SENTENCE>いらんともうすのか?</SENTENCE><BR />
+	<SENTENCE>わしゃショックじゃ…</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+<TALK id="kamesennin_qc">
+	<BG file="kamesennin01" />
+	<SENTENCE>ぬぬぬ　さすがじゃ</SENTENCE><BR />
+	<SENTENCE>しばらくみぬうちに　とんでもなく</SENTENCE><BR />
+	<SENTENCE>つよくなりおったのう</SENTENCE><BR />
+	<SENTENCE>わしゃ　おどろいたぞい</SENTENCE><BR />
+	<SENTENCE>ほれ　わしのかべがみをやるぞい</SENTENCE>
+	<FLAG name="wp_kamesennin" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+
+
+
+
+
+<TALK id="umigame_beach">
+	<BG file="umigame" />
+	<SENTENCE>わたくしこれから亀仙人様の</SENTENCE><BR />
+	<SENTENCE>ところにかえるところなのですが</SENTENCE><BR />
+	<SENTENCE>わたくしのせなかにのって</SENTENCE><BR />
+	<SENTENCE>いかれますか?</SENTENCE>
+	<BUTTON subject="のる" action="switch" file="cdrom_map_main,1,1,500,315"/>
+	<BUTTON subject="のらない" action="talk" file="umigame_q1" />
+</TALK>
+
+
+
+<TALK id="umigame_isle">
+	<BG file="umigame" />
+	<SENTENCE>もうおかえりですか?</SENTENCE><BR />
+	<SENTENCE>ではわたくしがおおくりしましょう</SENTENCE><BR />
+	<SENTENCE>どうぞせなかにおのりください</SENTENCE>
+	<BUTTON subject="のる" action="switch" file="cdrom_map_main,2,1,420,200"/>
+	<BUTTON subject="のらない" action="close" />
+</TALK>
+
+
+<TALK id="umigame_q1">
+	<BG file="umigame" />
+	<SENTENCE>そうですか</SENTENCE><BR />
+	<SENTENCE>では　わたくし闘いはにがてですが</SENTENCE><BR />
+	<SENTENCE>クイズでしたら　おあいていたします</SENTENCE><BR />
+	<SENTENCE>クイズにこたえられればあなたさまの</SENTENCE><BR />
+	<SENTENCE>かべがみをさしあげます</SENTENCE>
+	<BUTTON subject="勝負する" action="event" file="quiz/quiz_umigame" />
+	<BUTTON subject="やめる" action="talk" file="umigame_q2" />
+</TALK>
+
+
+<TALK id="umigame_q2">
+	<BG file="umigame" />
+	<SENTENCE>おお</SENTENCE><BR />
+	<SENTENCE>ではもしやわたくしのかべがみを</SENTENCE><BR />
+	<SENTENCE>おのぞみなのでは…</SENTENCE>
+	<BUTTON subject="はい" action="talk" file="umigame_q3" />
+	<BUTTON subject="いいえ" action="talk" file="umigame_q4" />
+</TALK>
+
+
+<TALK id="umigame_q3">
+	<BG file="umigame" />
+	<SENTENCE>うう…かんげきでございます…</SENTENCE><BR />
+	<SENTENCE>ではさしあげますのでたいせつに</SENTENCE><BR />
+	<SENTENCE>なさってくださいね</SENTENCE>
+	<FLAG name="wp_umigame" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+<TALK id="umigame_q4">
+	<BG file="umigame" />
+	<SENTENCE>そうですか…ざんねんでございます</SENTENCE><BR />
+	<SENTENCE>それではいってらっしゃいませ</SENTENCE>
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>
+
+
+<TALK id="umigame_qc">
+	<BG file="umigame" />
+	<SENTENCE>おみごとでございます</SENTENCE><BR />
+	<SENTENCE>それではかべがみをもらっていって</SENTENCE><BR />
+	<SENTENCE>ください</SENTENCE>
+	<FLAG name="wp_self" value="1" />
+	<BUTTON subject="CLOSE" action="close" />
+</TALK>

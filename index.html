@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset='utf8'>
+    </head>
+    <body>
+        <div id='ruffle'></div>
+        <script src='ruffle-selfhosted/ruffle.js'></script>
+        <script>
+            window.RufflePlayer = window.RufflePlayer || {};
+        
+            window.addEventListener("DOMContentLoaded", () => {
+                let ruffle = window.RufflePlayer.newest();
+                let player = ruffle.createPlayer();
+                let container = document.getElementById("ruffle");
+                container.appendChild(player);
+                player.ruffle().load("cdrom_index.swf");
+            });
+        </script>
+        <script src="path/to/ruffle/ruffle.js"></script>
+    </body>
+</html>
