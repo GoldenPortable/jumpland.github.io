@@ -13,8 +13,10 @@
                 let ruffle = window.RufflePlayer.newest();
                 let player = ruffle.createPlayer();
                 let container = document.getElementById("ruffle");
+                container.style.width = "1000px";
+                container.style.height = "600px";
                 container.appendChild(player);
-                player.ruffle().load("cdrom_index.swf");
+                player.ruffle().load("cdrom_jumpland.swf");
             });
         </script>
         <script src="path/to/ruffle/ruffle.js"></script>
