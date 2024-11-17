@@ -1,9 +1,9 @@
 <TALK id="goku_adult_t1">
 	<BG file="goku_adult01" />
-	<SENTENCE>亀仙人のじっちゃんちはうみの</SENTENCE><BR />
-	<SENTENCE>むこうだぞ</SENTENCE><BR />
-	<SENTENCE>オラもひさしぶりにけいこでも</SENTENCE><BR />
-	<SENTENCE>つけてもらっか!</SENTENCE>
+	<SENTENCE>OLD MAN KAME SEN'NIN HOUSE IS</SENTENCE><BR />
+	<SENTENCE>ACROSS THE SEA!</SENTENCE><BR />
+	<SENTENCE>I'LL GET SOME TRAINING IN TOO,</SENTENCE><BR />
+	<SENTENCE>ITS BEEN A WHILE!</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -11,9 +11,9 @@
 
 <TALK id="goku_adult_t2">
 	<BG file="goku_adult01" />
-	<SENTENCE>天下一武道会のかいじょうなら</SENTENCE><BR />
-	<SENTENCE>すぐそこだぞ</SENTENCE><BR />
-	<SENTENCE>はやく武道会はじまんねえかな</SENTENCE>
+	<SENTENCE>THE WORLD MARTIAL ARTS TOURNAMENT</SENTENCE><BR />
+	<SENTENCE>IS JUST AROUND THE CORNER.</SENTENCE><BR />
+	<SENTENCE>I HOPE THE TOURNAMENT STARTS SOON.</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -21,10 +21,10 @@
 
 <TALK id="goku_adult_t3">
 	<BG file="goku_adult01" />
-	<SENTENCE>カリン様にもずいぶんあって</SENTENCE><BR />
-	<SENTENCE>なかったな</SENTENCE><BR />
-	<SENTENCE>ひさしぶりに塔のぼって</SENTENCE><BR />
-	<SENTENCE>あそびにいくか</SENTENCE>
+	<SENTENCE>I HAVEN'T SEEN KARIN-SAMA</SENTENCE><BR />
+	<SENTENCE>IN AGES. SHOULD WE GO </SENTENCE><BR />
+	<SENTENCE>AND CLIMB THE TOWER</SENTENCE><BR />
+	<SENTENCE>FOR A WHILE?</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -32,18 +32,18 @@
 
 <TALK id="goku_adult_t4">
 	<BG file="goku_adult01" />
-	<SENTENCE>いま　いけねえところはしばらく</SENTENCE><BR />
-	<SENTENCE>まつしかねーな</SENTENCE><BR />
-	<SENTENCE>まっ　そのうちいけるようになるって</SENTENCE>
+	<SENTENCE>THERE ARE PLACES I CAN'T GO TO NOW</SENTENCE><BR />
+	<SENTENCE>SO I'LL JUST HAVE TO WAIT AW HILE.</SENTENCE><BR />
+	<SENTENCE>I'LL BE ABLE TO GO SOON.</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
 
 <TALK id="goku_adult_t5">
 	<BG file="goku_adult01" />
-	<SENTENCE>マンガオンラインってとこで</SENTENCE><BR />
-	<SENTENCE>オラがこどものころのはなしが</SENTENCE><BR />
-	<SENTENCE>よめるんだってな</SENTENCE>
+	<SENTENCE>I HEARD THERE'S A PLACE CALLED MANGA ONLINE</SENTENCE><BR />
+	<SENTENCE>WHERE YOU CAN READ STORIES FROM</SENTENCE><BR />
+	<SENTENCE>MY CHILDHOOD.</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -51,9 +51,9 @@
 
 <TALK id="goku_adult_t6">
 	<BG file="goku_adult01" />
-	<SENTENCE>なあ　おめえも天下一武道会に</SENTENCE><BR />
-	<SENTENCE>でるんだろ?</SENTENCE><BR />
-	<SENTENCE>オラいまからわくわくしてきたぞ!</SENTENCE>
+	<SENTENCE>HEY, YOU'RE GOING TO THE TENKAICHI BUDOKAI</SENTENCE><BR />
+	<SENTENCE>TOO AREN'T YA?</SENTENCE><BR />
+	<SENTENCE>I'M ALREADY GETTING EXCITED!</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -70,8 +70,8 @@
 
 <TALK id="goku_adult_t8">
 	<BG file="goku_adult01" />
-	<SENTENCE>まちんなかはブルマんちみてえに</SENTENCE><BR />
-	<SENTENCE>にぎやかだな</SENTENCE>
+	<SENTENCE>THIS TOWN IS AS LIVELY</SENTENCE><BR />
+	<SENTENCE>AS BULMA'S.</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -79,8 +79,8 @@
 
 <TALK id="goku_adult_t9">
 	<BG file="goku_adult01" />
-	<SENTENCE>やっぱりおめえもくると</SENTENCE><BR />
-	<SENTENCE>おもってたぞ!</SENTENCE>
+	<SENTENCE>I KNEW YOU'D</SENTENCE><BR />
+	<SENTENCE>COME TOO!</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -88,9 +88,9 @@
 
 <TALK id="goku_adult_t10">
 	<BG file="goku_adult01" />
-	<SENTENCE>こんどの天下一武道会じゃ</SENTENCE><BR />
-	<SENTENCE>どんなつええやつにあえるのか</SENTENCE><BR />
-	<SENTENCE>ワクワクするぞ</SENTENCE>
+	<SENTENCE>I'M EXCITED TO SEE WHAT KIND OF</SENTENCE><BR />
+	<SENTENCE>STRONG GUYS I'LL MEET AT THIS</SENTENCE><BR />
+	<SENTENCE>WORLD MARTIAL ARTS TOURNAMENT.</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
@@ -98,10 +98,10 @@
 
 <TALK id="goku_adult_t11">
 	<BG file="goku_adult01" />
-	<SENTENCE>オラとクイズで勝負すっか!</SENTENCE><BR />
-	<SENTENCE>さいしょっからとばしていくぞっ!</SENTENCE><BR />
-	<SENTENCE>オラに勝てたらおめえにかべがみを</SENTENCE><BR />
-	<SENTENCE>やるぞ!</SENTENCE>
+	<SENTENCE>LET'S TAKE A QUIZ!</SENTENCE><BR />
+	<SENTENCE>I'LL START FROM THE BEGINNING.</SENTENCE><BR />
+	<SENTENCE>IF YOU CAN BEAT ME, I'LL</SENTENCE><BR />
+	<SENTENCE>GIVE YOU A WALLPAPER!</SENTENCE>
 	<BUTTON subject="勝負する" action="event" file="quiz/quiz_goku_adult" />
 	<BUTTON subject="やめる" action="talk" file="goku_adult_q1" />
 </TALK>
@@ -110,10 +110,10 @@
 
 <TALK id="goku_adult_qc">
 	<BG file="goku_adult01" />
-	<SENTENCE>おめえつええなあ　おどろいたぞ</SENTENCE><BR />
-	<SENTENCE>やくそくどおりオラのかべがみを</SENTENCE><BR />
-	<SENTENCE>やるよ　こんどはオラも負けねえ</SENTENCE><BR />
-	<SENTENCE>からな!</SENTENCE>
+	<SENTENCE>YOU'RE STRONG! I'M SURPRISED!</SENTENCE><BR />
+	<SENTENCE>AS PROMISED, I'LL GIVE YOU MY</SENTENCE><BR />
+	<SENTENCE>WALLPAPER! NEXT TIME, I WON'T</SENTENCE><BR />
+	<SENTENCE>LOSE!</SENTENCE>
 	<FLAG name="wp_goku_adult" value="1" />
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
@@ -122,8 +122,8 @@
 
 <TALK id="goku_adult_q1">
 	<BG file="goku_adult01" />
-	<SENTENCE>そっか　じゃあまたこんどにすっか</SENTENCE><BR />
-	<SENTENCE>たのしみにしてっからな!</SENTENCE>
+	<SENTENCE>I SEE. THEN, I'LL LOOK FORWARD TO</SENTENCE><BR />
+	<SENTENCE>SEEING YOU AGAIN NEXT TIME!</SENTENCE>
 	<BUTTON subject="CLOSE" action="close" />
 </TALK>
 
