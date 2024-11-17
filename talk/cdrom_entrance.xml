@@ -1,37 +1,37 @@
 <TALK id="kaio">
 	<BG file="kaio" />
-	<SENTENCE>ようこそジャンプランドへ</SENTENCE>
-	<BUTTON subject="入場する" action="regist_passport" comment="" />
+	<SENTENCE>WELCOME TO JUMPLAND!</SENTENCE>
+	<BUTTON subject="ENTER" action="regist_passport" comment="" />
 </TALK>
 
 
 <TALK id="gate_help">
 	<BG file="piccolo01" />
-	<SENTENCE>ジャンプランドへよくきたな</SENTENCE><BR />
-	<SENTENCE>なにについてききたい?</SENTENCE>
-	<BUTTON subject="ジャンプランドについて" action="talk" file="gate_help1" />
+	<SENTENCE>WELCOME TO JUMPLAND</SENTENCE><BR />
+	<SENTENCE>WHAT WOULD YOU LIKE TO KNOW?</SENTENCE>
+	<BUTTON subject="ABOUT JUMPLAND" action="talk" file="gate_help1" />
 	<BUTTON subject="そうさほうほうについて" action="talk" file="gate_help2" />
-	<BUTTON subject="リンクについて" action="talk" file="gate_help3" />
-	<BUTTON subject="やめる" action="close" />
+	<BUTTON subject="LINKS" action="talk" file="gate_help3" />
+	<BUTTON subject="BACK" action="close" />
 </TALK>
 
 
 <TALK id="gate_help1">
 	<BG file="piccolo01" />
-	<SENTENCE>このさきのゲートをくぐれば</SENTENCE><BR />
-	<SENTENCE>ジャンプランドだ</SENTENCE><BR />
-	<SENTENCE>まずは　いってみることだ</SENTENCE>
-	<BUTTON subject="ほかのことについてきく" action="talk" file="gate_help" />
-	<BUTTON subject="やめる" action="close" />
+	<SENTENCE>IF YOU GO THROUGH THE GATE AHEAD</SENTENCE><BR />
+	<SENTENCE>YOU WILL ENTER JUMPLAND.</SENTENCE><BR />
+	<SENTENCE>TRY IT OUT!</SENTENCE>
+	<BUTTON subject="I NEED MORE INFORMATION" action="talk" file="gate_help" />
+	<BUTTON subject="BACK" action="close" />
 </TALK>
 
 
 <TALK id="gate_help2">
 	<BG file="piccolo01" />
-	<SENTENCE>キーボードのやじるしか</SENTENCE><BR />
-	<SENTENCE>がめんのひだりしたにある</SENTENCE><BR />
-	<SENTENCE>コントローラーをクリックすれば</SENTENCE><BR />
-	<SENTENCE>キャラクターがうごかせるぞ</SENTENCE>
+	<SENTENCE>CLICK ON THE ARROWS</SENTENCE><BR />
+	<SENTENCE>AT THE BOTTOM OF THE SCREEN</SENTENCE><BR />
+	<SENTENCE>TO MOVE YOUR CHARACTER.</SENTENCE><BR />
+	<SENTENCE>...</SENTENCE>
 	<BUTTON subject="NEXT" action="talk" file="gate_help2_2" />
 </TALK>
 
