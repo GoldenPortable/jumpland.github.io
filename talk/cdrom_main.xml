@@ -1482,24 +1482,24 @@
 
 <TALK id="mangaonline">
 	<BG file="lunch" />
-	<SENTENCE>マンガオンラインへようこそ</SENTENCE><BR />
-	<SENTENCE>ここではドラゴンボールのげんさく</SENTENCE><BR />
-	<SENTENCE>コミックスをよめるんですよ</SENTENCE><BR />
-	<SENTENCE>ぜひたのしんでいってくださいね</SENTENCE>
-	<BUTTON subject="はいる" action="event" file="cdrom_mangaonline" />
-	<BUTTON subject="はいらない" action="close" />
+	<SENTENCE>WELCOME TO MANGA ONLINE, WHERE</SENTENCE><BR />
+	<SENTENCE>YOU CAN READ THE ORIGINAL DRAGON</SENTENCE><BR />
+	<SENTENCE>BALL COMICS.</SENTENCE><BR />
+	<SENTENCE>HAVE FUN!</SENTENCE>
+	<BUTTON subject="ENTER" action="event" file="cdrom_mangaonline" />
+	<BUTTON subject="BACK" action="close" />
 </TALK>
 
 
 
 <TALK id="lunch2">
-	<SENTENCE>なんだてめえは!?</SENTENCE><BR />
-	<SENTENCE>なんでオレはこんなところにいるんだ</SENTENCE><BR />
-	<SENTENCE>ここはマンガオンラインだと?</SENTENCE><BR />
-	<SENTENCE>なんだかよくわからねえけど</SENTENCE><BR />
-	<SENTENCE>うだうだいってねえでさっさと</SENTENCE><BR />
-	<SENTENCE>はいっていきやがれ!</SENTENCE>
-	<BUTTON subject="はいる" action="event" file="cdrom_mangaonline" />
+	<SENTENCE>WHAT THE HELL ARE YOU DOING HERE!?</SENTENCE><BR />
+	<SENTENCE>WHY AM I HERE? IS THIS MANGA ONLINE?</SENTENCE><BR />
+	<SENTENCE>I DON'T REALLY GET IT</SENTENCE><BR />
+	<SENTENCE>BUT STOP WHINING </SENTENCE><BR />
+	<SENTENCE>AND JUST GO</SENTENCE><BR />
+	<SENTENCE>IN!</SENTENCE>
+	<BUTTON subject="ENTER" action="event" file="cdrom_mangaonline" />
 </TALK>
 
 
